@@ -1,8 +1,0 @@
-mensaje secreto12
-de todo el mundo
-este mensaje sera leido por varias personas
-
-este mensaje es muy importante.
-Este archivo no estan importante ahora
-
-este mensaje se repetira varias veces.
